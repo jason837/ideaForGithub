@@ -3,5 +3,7 @@ public class testfor {
         System.out.println("here commit soon");
         System.out.println("modified");
         System.out.println("conflicts master;");
+        //
+        System.out.println("conflicts hotfix;");
     }
 }
